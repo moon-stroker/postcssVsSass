@@ -1,0 +1,30 @@
+$colorBg: #ccc;
+$colorText: #000;
+$fontFamily: 'Helvetica';
+
+html{
+    font-size: 12px;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+    background-color: $colorBg;
+    font-family: $fontFamily;
+}
+
+
+.block{
+    color: $colorText;
+    position: absolute;
+    width: 100%;
+    top: 50%;
+    transform: translateY(-50%);
+    text-align: center;
+    h1{
+        font-size: 2rem;
+    }
+    p{
+        margin-top: 10px;
+    }   
+}
