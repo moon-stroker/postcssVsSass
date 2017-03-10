@@ -1,4 +1,4 @@
-# Boilerplate with Gulp + PostCSS&css-next + Babel
+# Comparando PostCSS VS sass.
 
 Este es un starter pack para probar proyectos en Sass y PostCSS  
 
